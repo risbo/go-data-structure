@@ -1,508 +1,682 @@
 [
   {
-    "id": 907536816,
-    "infoCourse": {
-      "id": -2097016331,
+    "id": -2098387634,
+    "agenda": "1. Momento de la e-evaluación",
+    "unit": "3. Nombre de la actividad",
+    "activity": "2. Nombre de la unidad",
+    "descripcion": "4. Descripción de la actividad",
+    "typeActivity": "4. Descripción de la actividad",
+    "weight": -2037838080,
+    "actInit": "2024-08-21T05:06:30.831927Z",
+    "actEnd": "2024-08-21T05:06:30.832579Z",
+    "courseAgenda": {
+      "id": -1520216896,
       "courseName": "EPIDEMIOLOGÍA GENERAL - Curso Teórico - 151013 de 2 créditos",
-      "credits": 2,
+      "credits": 257081115,
       "period": "2024 II PERIODO 16-04 (1704)"
-    },
-    "calendar": [
-      {
-        "id": -397433188,
-        "agenda": "1. Momento de la e-evaluación",
-        "unit": "3. Nombre de la actividad",
-        "activity": "2. Nombre de la unidad",
-        "descripcion": "4. Descripción de la actividad",
-        "typeActivity": "4. Descripción de la actividad",
-        "weight": "5. Tipo de actividad",
-        "actInit": "6. Peso evaluativo (en puntajes)",
-        "actEnd": "7. Actividad inicia en:"
-      },
-      {
-        "id": 1309213216,
-        "agenda": "Inicial",
-        "unit": "Fase 1 - Importancia de la epidemiología",
-        "activity": "---",
-        "descripcion": "* Actividad: Realizar una línea de tiempo de la historia de la epidemiología, y responder a las preguntas sobre principales conceptos y determinantes sociales en salud.\n* Entorno del aula donde se realiza: Entorno de evaluación.\n* Producto a entregar: Anexo 1 resuelto en la fecha indicada en la agenda del curso.",
-        "typeActivity": "Individual",
-        "weight": "25",
-        "actInit": "21/AGO/2024 00:00",
-        "actEnd": "03/SEP/2024 23:55"
-      },
-      {
-        "id": -133218413,
-        "agenda": "Intermedio",
-        "unit": "Fase 2 - Indicadores epidemiológicos",
-        "activity": "Unidad 1 - Conceptos e indicadores básicos en Epidemiología",
-        "descripcion": "* Actividad: Resolver los casos relacionados con los principales indicadores epidemiológicos en salud, realizando los análisis respectivos.\n* Entorno del aula donde se realiza: Entorno de evaluación. \n* Producto a entregar: Anexo 2 resuelto en la fecha indicada en la agenda del curso.",
-        "typeActivity": "Colaborativa",
-        "weight": "200",
-        "actInit": "04/SEP/2024 00:00",
-        "actEnd": "15/OCT/2024 23:55"
-      },
-      {
-        "id": -304438646,
-        "agenda": "Unidad 2 - Aplicaciones de la epidemiología",
-        "unit": "* Actividad: Resolver los casos relacionados con estudios epidemiológicos y medidas de asociación, realizando los análisis respectivos.\n* Entorno del aula donde se realiza: Entorno de evaluación. \n* Producto a entregar: Anexo 3 resuelto en la fecha indicada en la agenda del curso.",
-        "activity": "Fase 3 - Estudios epidemiológicos",
-        "descripcion": "Colaborativa",
-        "typeActivity": "Colaborativa",
-        "weight": "150",
-        "actInit": "16/OCT/2024 00:00",
-        "actEnd": "26/NOV/2024 23:55"
-      },
-      {
-        "id": -1881436845,
-        "agenda": "1. Momento de la e-evaluación",
-        "unit": "3. Nombre de la actividad",
-        "activity": "2. Nombre de la unidad",
-        "descripcion": "4. Descripción de la actividad",
-        "typeActivity": "4. Descripción de la actividad",
-        "weight": "5. Tipo de actividad",
-        "actInit": "6. Peso evaluativo (en puntajes)",
-        "actEnd": "7. Actividad inicia en:"
-      },
-      {
-        "id": -896812420,
-        "agenda": "Final",
-        "unit": "Fase 4 - Vigilancia epidemiológica",
-        "activity": "---",
-        "descripcion": "* Actividad: Resolver los casos relacionados con la vigilancia epidemiológica, realizando los análisis respectivos. \n* Entorno del aula donde se realiza: Entorno de evaluación. \n* Producto a entregar: Anexo 4 resuelto en la fecha indicada en la agenda del curso.",
-        "typeActivity": "Colaborativa",
-        "weight": "125",
-        "actInit": "27/NOV/2024 00:00",
-        "actEnd": "10/DIC/2024 23:55"
-      }
-    ]
+    }
   },
   {
-    "id": -1062788943,
-    "infoCourse": {
-      "id": -2013198766,
+    "id": 308846105,
+    "agenda": "Inicial",
+    "unit": "Fase 1 - Importancia de la epidemiología",
+    "activity": "---",
+    "descripcion": "* Actividad: Realizar una línea de tiempo de la historia de la epidemiología, y responder a las preguntas sobre principales conceptos y determinantes sociales en salud.\n* Entorno del aula donde se realiza: Entorno de evaluación.\n* Producto a entregar: Anexo 1 resuelto en la fecha indicada en la agenda del curso.",
+    "typeActivity": "Individual",
+    "weight": 390350013,
+    "actInit": "2024-08-21T05:00:00Z",
+    "actEnd": "2024-09-04T04:55:00Z",
+    "courseAgenda": {
+      "id": -1520216896,
+      "courseName": "EPIDEMIOLOGÍA GENERAL - Curso Teórico - 151013 de 2 créditos",
+      "credits": -538644414,
+      "period": "2024 II PERIODO 16-04 (1704)"
+    }
+  },
+  {
+    "id": -2002309412,
+    "agenda": "Intermedio",
+    "unit": "Fase 2 - Indicadores epidemiológicos",
+    "activity": "Unidad 1 - Conceptos e indicadores básicos en Epidemiología",
+    "descripcion": "* Actividad: Resolver los casos relacionados con los principales indicadores epidemiológicos en salud, realizando los análisis respectivos.\n* Entorno del aula donde se realiza: Entorno de evaluación. \n* Producto a entregar: Anexo 2 resuelto en la fecha indicada en la agenda del curso.",
+    "typeActivity": "Colaborativa",
+    "weight": 349951217,
+    "actInit": "2024-09-04T05:00:00Z",
+    "actEnd": "2024-10-16T04:55:00Z",
+    "courseAgenda": {
+      "id": -1520216896,
+      "courseName": "EPIDEMIOLOGÍA GENERAL - Curso Teórico - 151013 de 2 créditos",
+      "credits": -857743882,
+      "period": "2024 II PERIODO 16-04 (1704)"
+    }
+  },
+  {
+    "id": -443599848,
+    "agenda": "Unidad 2 - Aplicaciones de la epidemiología",
+    "unit": "* Actividad: Resolver los casos relacionados con estudios epidemiológicos y medidas de asociación, realizando los análisis respectivos.\n* Entorno del aula donde se realiza: Entorno de evaluación. \n* Producto a entregar: Anexo 3 resuelto en la fecha indicada en la agenda del curso.",
+    "activity": "Fase 3 - Estudios epidemiológicos",
+    "descripcion": "Colaborativa",
+    "typeActivity": "Colaborativa",
+    "weight": -1321844702,
+    "actInit": "2024-10-16T05:00:00Z",
+    "actEnd": "2024-11-27T04:55:00Z",
+    "courseAgenda": {
+      "id": -1520216896,
+      "courseName": "EPIDEMIOLOGÍA GENERAL - Curso Teórico - 151013 de 2 créditos",
+      "credits": -1851496480,
+      "period": "2024 II PERIODO 16-04 (1704)"
+    }
+  },
+  {
+    "id": 1977794656,
+    "agenda": "1. Momento de la e-evaluación",
+    "unit": "3. Nombre de la actividad",
+    "activity": "2. Nombre de la unidad",
+    "descripcion": "4. Descripción de la actividad",
+    "typeActivity": "4. Descripción de la actividad",
+    "weight": 587923125,
+    "actInit": "2024-08-21T05:06:30.841366Z",
+    "actEnd": "2024-08-21T05:06:30.841418Z",
+    "courseAgenda": {
+      "id": -1520216896,
+      "courseName": "EPIDEMIOLOGÍA GENERAL - Curso Teórico - 151013 de 2 créditos",
+      "credits": 437915536,
+      "period": "2024 II PERIODO 16-04 (1704)"
+    }
+  },
+  {
+    "id": -907925022,
+    "agenda": "Final",
+    "unit": "Fase 4 - Vigilancia epidemiológica",
+    "activity": "---",
+    "descripcion": "* Actividad: Resolver los casos relacionados con la vigilancia epidemiológica, realizando los análisis respectivos. \n* Entorno del aula donde se realiza: Entorno de evaluación. \n* Producto a entregar: Anexo 4 resuelto en la fecha indicada en la agenda del curso.",
+    "typeActivity": "Colaborativa",
+    "weight": 1977904909,
+    "actInit": "2024-11-27T05:00:00Z",
+    "actEnd": "2024-12-11T04:55:00Z",
+    "courseAgenda": {
+      "id": -1520216896,
+      "courseName": "EPIDEMIOLOGÍA GENERAL - Curso Teórico - 151013 de 2 créditos",
+      "credits": 382819196,
+      "period": "2024 II PERIODO 16-04 (1704)"
+    }
+  },
+  {
+    "id": -352600687,
+    "agenda": "1. Momento de la e-evaluación",
+    "unit": "3. Nombre de la actividad",
+    "activity": "2. Nombre de la unidad",
+    "descripcion": "4. Descripción de la actividad",
+    "typeActivity": "4. Descripción de la actividad",
+    "weight": 423404911,
+    "actInit": "2024-08-21T05:06:30.841648Z",
+    "actEnd": "2024-08-21T05:06:30.841787Z",
+    "courseAgenda": {
+      "id": -1297819896,
       "courseName": "LEGISLACIÓN Y SISTEMAS DE SALUD - Curso Teórico - 151012 de 2 créditos",
-      "credits": 2,
+      "credits": 320160993,
       "period": "2024 II PERIODO 16-04 (1704)"
-    },
-    "calendar": [
-      {
-        "id": 1107762686,
-        "agenda": "1. Momento de la e-evaluación",
-        "unit": "3. Nombre de la actividad",
-        "activity": "2. Nombre de la unidad",
-        "descripcion": "4. Descripción de la actividad",
-        "typeActivity": "4. Descripción de la actividad",
-        "weight": "5. Tipo de actividad",
-        "actInit": "6. Peso evaluativo (en puntajes)",
-        "actEnd": "7. Actividad inicia en:"
-      },
-      {
-        "id": -1757488890,
-        "agenda": "Inicial",
-        "unit": "Tarea 1 - Conceptualización",
-        "activity": "---",
-        "descripcion": "*Actividad: Responder las preguntas orientadoras de presaberes jurídicos y temáticos en referencia al sistema de salud en Colombia.\n*Entorno del aula donde se realiza: Entorno de Evaluación\n*Producto a entregar: Documento en Word con la estructura y el contenido solicitado, entregado dentro del entorno de evaluación.",
-        "typeActivity": "Individual",
-        "weight": "25",
-        "actInit": "21/AGO/2024 00:00",
-        "actEnd": "03/SEP/2024 23:55"
-      },
-      {
-        "id": 920503950,
-        "agenda": "Intermedio",
-        "unit": "Tarea 2 - Evolución nacional e internacional",
-        "activity": "Unidad 1 – Evolución, sistemas y modelos de salud y Unidad 2 - Legislación colombiana en salud",
-        "descripcion": "*Actividad: \n - Realizar una hoja de ruta de la evolución del sistema de salud colombiano. \n - Elaborar una matriz comparativa, determinando la influencia de dos países en la evolución del sistema de salud de Colombia, identificando las diferencias y similitudes entre estos sistemas de salud foráneos y el nacional. \n*Entorno del aula donde se realiza: Entorno de aprendizaje y de evaluación\n*Producto a entregar: Documento grupal en Word, con la estructura y el contenido solicitado, entregado dentro del entorno de evaluación.",
-        "typeActivity": "Colaborativa",
-        "weight": "175",
-        "actInit": "04/SEP/2024 00:00",
-        "actEnd": "15/OCT/2024 23:55"
-      },
-      {
-        "id": -2139452280,
-        "agenda": "Unidad 2 - Legislación colombiana en salud",
-        "unit": "* Actividad:\n - Desarrollar el Anexo 1 – Tarea 3 - Pirámide de Kelsen, conceptuando la pirámide de Kelsen, y una norma expedida en materia de covid 19.\n - Elaborar el Anexo 2 - Tarea 3 - Análisis normativo, identificando la normatividad vigente en el tema seleccionado.\n*Entorno del aula donde se realiza: Entorno de aprendizaje y de evaluación\n*Producto a entregar: Documento grupal en Word o PDF, con la estructura y el contenido solicitado, entregado dentro del entorno de evaluación",
-        "activity": "Tarea 3 - Exploración del marco legislativo en Colombia",
-        "descripcion": "Colaborativa",
-        "typeActivity": "Colaborativa",
-        "weight": "175",
-        "actInit": "16/OCT/2024 00:00",
-        "actEnd": "26/NOV/2024 23:55"
-      },
-      {
-        "id": -1069318830,
-        "agenda": "1. Momento de la e-evaluación",
-        "unit": "3. Nombre de la actividad",
-        "activity": "2. Nombre de la unidad",
-        "descripcion": "4. Descripción de la actividad",
-        "typeActivity": "4. Descripción de la actividad",
-        "weight": "5. Tipo de actividad",
-        "actInit": "6. Peso evaluativo (en puntajes)",
-        "actEnd": "7. Actividad inicia en:"
-      },
-      {
-        "id": 1072570576,
-        "agenda": "Final",
-        "unit": "Tarea 4 - Identificación del sistema de salud colombiano",
-        "activity": "---",
-        "descripcion": "*Actividad: Realizar un gráfico SmartArt en donde identifique la estructura, componentes, funcionamiento, afiliación y financiamiento del sistema de salud colombiano.\n*Entorno del aula donde se realiza: Entorno de aprendizaje y de evaluación\n*Producto a entregar: Documento grupal en Word o PDF, con la estructura y el contenido solicitado, entregado dentro del entorno de evaluación",
-        "typeActivity": "Colaborativa",
-        "weight": "125",
-        "actInit": "27/NOV/2024 00:00",
-        "actEnd": "10/DIC/2024 23:55"
-      }
-    ]
+    }
   },
   {
-    "id": -369443554,
-    "infoCourse": {
-      "id": -574172647,
+    "id": -1412654169,
+    "agenda": "Inicial",
+    "unit": "Tarea 1 - Conceptualización",
+    "activity": "---",
+    "descripcion": "*Actividad: Responder las preguntas orientadoras de presaberes jurídicos y temáticos en referencia al sistema de salud en Colombia.\n*Entorno del aula donde se realiza: Entorno de Evaluación\n*Producto a entregar: Documento en Word con la estructura y el contenido solicitado, entregado dentro del entorno de evaluación.",
+    "typeActivity": "Individual",
+    "weight": 694420999,
+    "actInit": "2024-08-21T05:00:00Z",
+    "actEnd": "2024-09-04T04:55:00Z",
+    "courseAgenda": {
+      "id": -1297819896,
+      "courseName": "LEGISLACIÓN Y SISTEMAS DE SALUD - Curso Teórico - 151012 de 2 créditos",
+      "credits": -2125552327,
+      "period": "2024 II PERIODO 16-04 (1704)"
+    }
+  },
+  {
+    "id": 2065317793,
+    "agenda": "Intermedio",
+    "unit": "Tarea 2 - Evolución nacional e internacional",
+    "activity": "Unidad 1 – Evolución, sistemas y modelos de salud y Unidad 2 - Legislación colombiana en salud",
+    "descripcion": "*Actividad: \n - Realizar una hoja de ruta de la evolución del sistema de salud colombiano. \n - Elaborar una matriz comparativa, determinando la influencia de dos países en la evolución del sistema de salud de Colombia, identificando las diferencias y similitudes entre estos sistemas de salud foráneos y el nacional. \n*Entorno del aula donde se realiza: Entorno de aprendizaje y de evaluación\n*Producto a entregar: Documento grupal en Word, con la estructura y el contenido solicitado, entregado dentro del entorno de evaluación.",
+    "typeActivity": "Colaborativa",
+    "weight": 298563371,
+    "actInit": "2024-09-04T05:00:00Z",
+    "actEnd": "2024-10-16T04:55:00Z",
+    "courseAgenda": {
+      "id": -1297819896,
+      "courseName": "LEGISLACIÓN Y SISTEMAS DE SALUD - Curso Teórico - 151012 de 2 créditos",
+      "credits": 1786572640,
+      "period": "2024 II PERIODO 16-04 (1704)"
+    }
+  },
+  {
+    "id": 1498262011,
+    "agenda": "Unidad 2 - Legislación colombiana en salud",
+    "unit": "* Actividad:\n - Desarrollar el Anexo 1 – Tarea 3 - Pirámide de Kelsen, conceptuando la pirámide de Kelsen, y una norma expedida en materia de covid 19.\n - Elaborar el Anexo 2 - Tarea 3 - Análisis normativo, identificando la normatividad vigente en el tema seleccionado.\n*Entorno del aula donde se realiza: Entorno de aprendizaje y de evaluación\n*Producto a entregar: Documento grupal en Word o PDF, con la estructura y el contenido solicitado, entregado dentro del entorno de evaluación",
+    "activity": "Tarea 3 - Exploración del marco legislativo en Colombia",
+    "descripcion": "Colaborativa",
+    "typeActivity": "Colaborativa",
+    "weight": -1343688495,
+    "actInit": "2024-10-16T05:00:00Z",
+    "actEnd": "2024-11-27T04:55:00Z",
+    "courseAgenda": {
+      "id": -1297819896,
+      "courseName": "LEGISLACIÓN Y SISTEMAS DE SALUD - Curso Teórico - 151012 de 2 créditos",
+      "credits": 650536353,
+      "period": "2024 II PERIODO 16-04 (1704)"
+    }
+  },
+  {
+    "id": 1572423385,
+    "agenda": "1. Momento de la e-evaluación",
+    "unit": "3. Nombre de la actividad",
+    "activity": "2. Nombre de la unidad",
+    "descripcion": "4. Descripción de la actividad",
+    "typeActivity": "4. Descripción de la actividad",
+    "weight": -1693938896,
+    "actInit": "2024-08-21T05:06:30.845250Z",
+    "actEnd": "2024-08-21T05:06:30.845278Z",
+    "courseAgenda": {
+      "id": -1297819896,
+      "courseName": "LEGISLACIÓN Y SISTEMAS DE SALUD - Curso Teórico - 151012 de 2 créditos",
+      "credits": -1325034225,
+      "period": "2024 II PERIODO 16-04 (1704)"
+    }
+  },
+  {
+    "id": 311278842,
+    "agenda": "Final",
+    "unit": "Tarea 4 - Identificación del sistema de salud colombiano",
+    "activity": "---",
+    "descripcion": "*Actividad: Realizar un gráfico SmartArt en donde identifique la estructura, componentes, funcionamiento, afiliación y financiamiento del sistema de salud colombiano.\n*Entorno del aula donde se realiza: Entorno de aprendizaje y de evaluación\n*Producto a entregar: Documento grupal en Word o PDF, con la estructura y el contenido solicitado, entregado dentro del entorno de evaluación",
+    "typeActivity": "Colaborativa",
+    "weight": 906345636,
+    "actInit": "2024-11-27T05:00:00Z",
+    "actEnd": "2024-12-11T04:55:00Z",
+    "courseAgenda": {
+      "id": -1297819896,
+      "courseName": "LEGISLACIÓN Y SISTEMAS DE SALUD - Curso Teórico - 151012 de 2 créditos",
+      "credits": -781143760,
+      "period": "2024 II PERIODO 16-04 (1704)"
+    }
+  },
+  {
+    "id": -88872816,
+    "agenda": "1. Momento de la e-evaluación",
+    "unit": "3. Nombre de la actividad",
+    "activity": "2. Nombre de la unidad",
+    "descripcion": "4. Descripción de la actividad",
+    "typeActivity": "4. Descripción de la actividad",
+    "weight": 1232783215,
+    "actInit": "2024-08-21T05:06:30.845985Z",
+    "actEnd": "2024-08-21T05:06:30.846110Z",
+    "courseAgenda": {
+      "id": -1799907088,
       "courseName": "GESTIÓN FINANCIERA EN SALUD - Curso Teórico - 151019 de 3 créditos",
-      "credits": 3,
+      "credits": 696618937,
       "period": "2024 II PERIODO 16-04 (1704)"
-    },
-    "calendar": [
-      {
-        "id": -1605676586,
-        "agenda": "1. Momento de la e-evaluación",
-        "unit": "3. Nombre de la actividad",
-        "activity": "2. Nombre de la unidad",
-        "descripcion": "4. Descripción de la actividad",
-        "typeActivity": "4. Descripción de la actividad",
-        "weight": "5. Tipo de actividad",
-        "actInit": "6. Peso evaluativo (en puntajes)",
-        "actEnd": "7. Actividad inicia en:"
-      },
-      {
-        "id": 771977049,
-        "agenda": "Inicial",
-        "unit": "Tarea 1 - Reconocimiento de conceptos económicos",
-        "activity": "Unidad 1-  Conceptos fundamentales en la economía - salud",
-        "descripcion": "* Actividad: Diseñar mapa conceptual donde relacione los conceptos de economía, economía de la salud y economía azul. Elaborar una infografía donde se identifiquen conceptos de macroeconomía y microeconomía y participación en el foro colaborativo.\n* Entorno del aula donde se realiza: Entorno de aprendizaje y Entorno de Evaluación\n* Producto a entregar: Documento  en Word  con Mapa conceptual ó infografía  sobre conceptos de macroeconomía y microeconomía",
-        "typeActivity": "Individual",
-        "weight": "25",
-        "actInit": "21/AGO/2024 00:00",
-        "actEnd": "03/SEP/2024 23:55"
-      },
-      {
-        "id": 1715947782,
-        "agenda": "Intermedio",
-        "unit": "Tarea 2 - Identificación de estados financieros en Instituciones de Salud",
-        "activity": "Unidad 2 - Sistema financiero en el sistema de salud",
-        "descripcion": "* Actividad: Realizar diligenciameinto de Anexo 1 - Formato para diseñar   información contable\n* Entorno del aula donde se realiza: Entorno de  Aprendizaje y Evaluación\n* Producto a entregar: Entrega de Anexo 1 - Formato para diseñar   información contable",
-        "typeActivity": "Individual",
-        "weight": "100",
-        "actInit": "04/SEP/2024 00:00",
-        "actEnd": "24/SEP/2024 23:55"
-      },
-      {
-        "id": -1714880688,
-        "agenda": "Tarea 3 - Interpreta datos de situaciones financieras en instituciones de Salud",
-        "unit": "* Actividad: Entregar aportes en el Foro de la Tarea 3, para la construcción del trabajo colaborativo y Actividad individual - Documento escrito en base al Anexo 2 - Formato para diseñar teoría contable (individual) con los elementos planteados en el mismo\n* Entorno del aula donde se realiza: Entorno de aprendizaje y Evaluación.\n* Producto a entregar:Documento con Anexo 3 - Formato  para diseñar  análisis financiero  (colaborativo)",
-        "activity": "Tarea 3 - Interpreta datos de situaciones financieras en instituciones de Salud",
-        "descripcion": "Colaborativa",
-        "typeActivity": "Colaborativa",
-        "weight": "125",
-        "actInit": "25/SEP/2024 00:00",
-        "actEnd": "22/OCT/2024 23:55"
-      },
-      {
-        "id": -98829082,
-        "agenda": "Tarea 4 - Estructura costos y gastos de una Institución de Salud",
-        "unit": "* Actividad: Responder  preguntas orientadoras en el foro - Desarrollar  actividad colaborativa.\n* Entorno del aula donde se realiza: Entorno de Aprendizaje y Evaluación\n* Producto a entregar:  Entrega Documento en PDF.",
-        "activity": "Tarea 4 - Estructura costos y gastos de una Institución de Salud",
-        "descripcion": "Colaborativa",
-        "typeActivity": "Colaborativa",
-        "weight": "125",
-        "actInit": "23/OCT/2024 00:00",
-        "actEnd": "26/NOV/2024 23:55"
-      },
-      {
-        "id": -1456393704,
-        "agenda": "1. Momento de la e-evaluación",
-        "unit": "3. Nombre de la actividad",
-        "activity": "2. Nombre de la unidad",
-        "descripcion": "4. Descripción de la actividad",
-        "typeActivity": "4. Descripción de la actividad",
-        "weight": "5. Tipo de actividad",
-        "actInit": "6. Peso evaluativo (en puntajes)",
-        "actEnd": "7. Actividad inicia en:"
-      },
-      {
-        "id": 904544876,
-        "agenda": "Final",
-        "unit": "Tarea 5 - Analiza la importancia de la gestión financiera en salud",
-        "activity": "Unidad 3 - La gestión financiera en la salud",
-        "descripcion": "* Actividad: Entregar aporte en el foro colaborativo - ensayo argumentativo.\n* Entorno del aula donde se realiza: Entorno de aprendizaje y evaluación.\n* Producto a entregar: Documento en word que contenga  ensayo argumentativo",
-        "typeActivity": "Individual",
-        "weight": "125",
-        "actInit": "27/NOV/2024 00:00",
-        "actEnd": "10/DIC/2024 23:55"
-      }
-    ]
+    }
   },
   {
-    "id": 1573661500,
-    "infoCourse": {
-      "id": -109750645,
+    "id": 1182447439,
+    "agenda": "Inicial",
+    "unit": "Tarea 1 - Reconocimiento de conceptos económicos",
+    "activity": "Unidad 1-  Conceptos fundamentales en la economía - salud",
+    "descripcion": "* Actividad: Diseñar mapa conceptual donde relacione los conceptos de economía, economía de la salud y economía azul. Elaborar una infografía donde se identifiquen conceptos de macroeconomía y microeconomía y participación en el foro colaborativo.\n* Entorno del aula donde se realiza: Entorno de aprendizaje y Entorno de Evaluación\n* Producto a entregar: Documento  en Word  con Mapa conceptual ó infografía  sobre conceptos de macroeconomía y microeconomía",
+    "typeActivity": "Individual",
+    "weight": -1528298338,
+    "actInit": "2024-08-21T05:00:00Z",
+    "actEnd": "2024-09-04T04:55:00Z",
+    "courseAgenda": {
+      "id": -1799907088,
+      "courseName": "GESTIÓN FINANCIERA EN SALUD - Curso Teórico - 151019 de 3 créditos",
+      "credits": 658535804,
+      "period": "2024 II PERIODO 16-04 (1704)"
+    }
+  },
+  {
+    "id": -342655073,
+    "agenda": "Intermedio",
+    "unit": "Tarea 2 - Identificación de estados financieros en Instituciones de Salud",
+    "activity": "Unidad 2 - Sistema financiero en el sistema de salud",
+    "descripcion": "* Actividad: Realizar diligenciameinto de Anexo 1 - Formato para diseñar   información contable\n* Entorno del aula donde se realiza: Entorno de  Aprendizaje y Evaluación\n* Producto a entregar: Entrega de Anexo 1 - Formato para diseñar   información contable",
+    "typeActivity": "Individual",
+    "weight": 627830667,
+    "actInit": "2024-09-04T05:00:00Z",
+    "actEnd": "2024-09-25T04:55:00Z",
+    "courseAgenda": {
+      "id": -1799907088,
+      "courseName": "GESTIÓN FINANCIERA EN SALUD - Curso Teórico - 151019 de 3 créditos",
+      "credits": -501562017,
+      "period": "2024 II PERIODO 16-04 (1704)"
+    }
+  },
+  {
+    "id": -1958522497,
+    "agenda": "Tarea 3 - Interpreta datos de situaciones financieras en instituciones de Salud",
+    "unit": "* Actividad: Entregar aportes en el Foro de la Tarea 3, para la construcción del trabajo colaborativo y Actividad individual - Documento escrito en base al Anexo 2 - Formato para diseñar teoría contable (individual) con los elementos planteados en el mismo\n* Entorno del aula donde se realiza: Entorno de aprendizaje y Evaluación.\n* Producto a entregar:Documento con Anexo 3 - Formato  para diseñar  análisis financiero  (colaborativo)",
+    "activity": "Tarea 3 - Interpreta datos de situaciones financieras en instituciones de Salud",
+    "descripcion": "Colaborativa",
+    "typeActivity": "Colaborativa",
+    "weight": 1707011139,
+    "actInit": "2024-09-25T05:00:00Z",
+    "actEnd": "2024-10-23T04:55:00Z",
+    "courseAgenda": {
+      "id": -1799907088,
+      "courseName": "GESTIÓN FINANCIERA EN SALUD - Curso Teórico - 151019 de 3 créditos",
+      "credits": 475878392,
+      "period": "2024 II PERIODO 16-04 (1704)"
+    }
+  },
+  {
+    "id": 998546136,
+    "agenda": "Tarea 4 - Estructura costos y gastos de una Institución de Salud",
+    "unit": "* Actividad: Responder  preguntas orientadoras en el foro - Desarrollar  actividad colaborativa.\n* Entorno del aula donde se realiza: Entorno de Aprendizaje y Evaluación\n* Producto a entregar:  Entrega Documento en PDF.",
+    "activity": "Tarea 4 - Estructura costos y gastos de una Institución de Salud",
+    "descripcion": "Colaborativa",
+    "typeActivity": "Colaborativa",
+    "weight": 474202609,
+    "actInit": "2024-10-23T05:00:00Z",
+    "actEnd": "2024-11-27T04:55:00Z",
+    "courseAgenda": {
+      "id": -1799907088,
+      "courseName": "GESTIÓN FINANCIERA EN SALUD - Curso Teórico - 151019 de 3 créditos",
+      "credits": -1660157591,
+      "period": "2024 II PERIODO 16-04 (1704)"
+    }
+  },
+  {
+    "id": 985568764,
+    "agenda": "1. Momento de la e-evaluación",
+    "unit": "3. Nombre de la actividad",
+    "activity": "2. Nombre de la unidad",
+    "descripcion": "4. Descripción de la actividad",
+    "typeActivity": "4. Descripción de la actividad",
+    "weight": -2119338598,
+    "actInit": "2024-08-21T05:06:30.848176Z",
+    "actEnd": "2024-08-21T05:06:30.848202Z",
+    "courseAgenda": {
+      "id": -1799907088,
+      "courseName": "GESTIÓN FINANCIERA EN SALUD - Curso Teórico - 151019 de 3 créditos",
+      "credits": -67592971,
+      "period": "2024 II PERIODO 16-04 (1704)"
+    }
+  },
+  {
+    "id": -1695549697,
+    "agenda": "Final",
+    "unit": "Tarea 5 - Analiza la importancia de la gestión financiera en salud",
+    "activity": "Unidad 3 - La gestión financiera en la salud",
+    "descripcion": "* Actividad: Entregar aporte en el foro colaborativo - ensayo argumentativo.\n* Entorno del aula donde se realiza: Entorno de aprendizaje y evaluación.\n* Producto a entregar: Documento en word que contenga  ensayo argumentativo",
+    "typeActivity": "Individual",
+    "weight": 1837318299,
+    "actInit": "2024-11-27T05:00:00Z",
+    "actEnd": "2024-12-11T04:55:00Z",
+    "courseAgenda": {
+      "id": -1799907088,
+      "courseName": "GESTIÓN FINANCIERA EN SALUD - Curso Teórico - 151019 de 3 créditos",
+      "credits": -1770063771,
+      "period": "2024 II PERIODO 16-04 (1704)"
+    }
+  },
+  {
+    "id": -345463766,
+    "agenda": "1. Moment",
+    "unit": "3. Activity name",
+    "activity": "2. Unit name",
+    "descripcion": "4. Description",
+    "typeActivity": "4. Description",
+    "weight": -1689556016,
+    "actInit": "2024-08-21T05:06:30.848369Z",
+    "actEnd": "2024-08-21T05:06:30.848394Z",
+    "courseAgenda": {
+      "id": 1157836923,
       "courseName": "GEOPOLÍTICA Y MEDIO AMBIENTE - Course Teórico - 151021 of 2 Academic Credits",
-      "credits": 3,
+      "credits": -1776406536,
       "period": "2024 II PERIODO 16-04 (1704)"
-    },
-    "calendar": [
-      {
-        "id": 1737538112,
-        "agenda": "1. Moment",
-        "unit": "3. Activity name",
-        "activity": "2. Unit name",
-        "descripcion": "4. Description",
-        "typeActivity": "4. Description",
-        "weight": "5. Activity type",
-        "actInit": "6. Evaluative score (in points)",
-        "actEnd": "7. Activity begins on:"
-      },
-      {
-        "id": -2122567387,
-        "agenda": "Inicial",
-        "unit": "Task 1 - Definition of main concepts",
-        "activity": "---",
-        "descripcion": "* Activity: Develop the concepts of Geopolitics, Environment, Sustainable Development, Social and environmental Determinants in Health. Write a bibliographical review using electronic databases.\n* Environment where it must be presented: Learning environment and Evaluation environment.\n* Expected Product: Participate in the forum and discussion of the sustainable development goals (SDGs) and the written document in word or pdf.",
-        "typeActivity": "Individual",
-        "weight": "25",
-        "actInit": "21/AGO/2024 00:00",
-        "actEnd": "03/SEP/2024 23:55"
-      },
-      {
-        "id": -1303657108,
-        "agenda": "Intermedio",
-        "unit": "Task 2 - Identification of Problem situation and relationship between Geopolitics and environment",
-        "activity": "Unit 1 - Context of Geopolitics, Environment, Determinants in Health and Sustainable Development",
-        "descripcion": "* Activity: Identify a specific problem situation in your city or region, that affects the context where you live or work, associated with air pollution, water pollution or soil pollution and its effects on human health.Participate in the forum.Share the public link of the fishbone diagram in the Canva Tool.\n* Environment where it must be presented: Learning environment and Evaluation environment.\n* Expected Product: Word or pdf document with the analysis and argumentation of the problem.",
-        "typeActivity": "Individual",
-        "weight": "175",
-        "actInit": "04/SEP/2024 00:00",
-        "actEnd": "13/OCT/2024 23:55"
-      },
-      {
-        "id": 1478351622,
-        "agenda": "Unit 2 - Intersectoral and Transectoral strategies in health",
-        "unit": "* Activity: Design a digital presentation in Genially tool ( individual activity). Then, the collaborative group select one of the topics presented by the members and define two intrasectoral strategies (health sector) and a two intersectoral strategies (coordinate with the environment and other related sectors) to address the challenges and solutions to the problem.\n* Environment where it must be presented: Learning environment and Evaluation environment.\n* Expected Product: An individual work and a collaborative work. Word or pdf document with the strategies and the presentation in Genially tool.",
-        "activity": "Task 3 - Definition of intrasectoral and transectoral strategies",
-        "descripcion": "Collaborative",
-        "typeActivity": "Collaborative",
-        "weight": "175",
-        "actInit": "14/OCT/2024 00:00",
-        "actEnd": "26/NOV/2024 23:55"
-      },
-      {
-        "id": -581086115,
-        "agenda": "1. Moment",
-        "unit": "3. Activity name",
-        "activity": "2. Unit name",
-        "descripcion": "4. Description",
-        "typeActivity": "4. Description",
-        "weight": "5. Activity type",
-        "actInit": "6. Evaluative score (in points)",
-        "actEnd": "7. Activity begins on:"
-      },
-      {
-        "id": 650524776,
-        "agenda": "Final",
-        "unit": "Task 4 - Appropriation and Leadership in Geopolitics and Environment",
-        "activity": "---",
-        "descripcion": "* Activity: Prepare a document containing the case study of implementing circular economy in healthcare. Participate in the forum defining the concept of circular economy, its benefits and an example where this model of production and consumption is applied. Comment on current and future policies needed to promote the circular economy in the health sector in Colombia and an international perspective.\n* Environment where it must be presented: Learning environment and Evaluation environment.\n* Expected Product: Document in Word or pdf format with the discuss of the circular economy in the health sector in Colombia and an international perspective.",
-        "typeActivity": "Collaborative",
-        "weight": "125",
-        "actInit": "27/NOV/2024 00:00",
-        "actEnd": "10/DIC/2024 23:55"
-      }
-    ]
+    }
   },
   {
-    "id": 552325127,
-    "infoCourse": {
-      "id": 748752719,
+    "id": 1326125350,
+    "agenda": "Inicial",
+    "unit": "Task 1 - Definition of main concepts",
+    "activity": "---",
+    "descripcion": "* Activity: Develop the concepts of Geopolitics, Environment, Sustainable Development, Social and environmental Determinants in Health. Write a bibliographical review using electronic databases.\n* Environment where it must be presented: Learning environment and Evaluation environment.\n* Expected Product: Participate in the forum and discussion of the sustainable development goals (SDGs) and the written document in word or pdf.",
+    "typeActivity": "Individual",
+    "weight": -1192030963,
+    "actInit": "2024-08-21T05:00:00Z",
+    "actEnd": "2024-09-04T04:55:00Z",
+    "courseAgenda": {
+      "id": 1157836923,
+      "courseName": "GEOPOLÍTICA Y MEDIO AMBIENTE - Course Teórico - 151021 of 2 Academic Credits",
+      "credits": -767276352,
+      "period": "2024 II PERIODO 16-04 (1704)"
+    }
+  },
+  {
+    "id": 274382126,
+    "agenda": "Intermedio",
+    "unit": "Task 2 - Identification of Problem situation and relationship between Geopolitics and environment",
+    "activity": "Unit 1 - Context of Geopolitics, Environment, Determinants in Health and Sustainable Development",
+    "descripcion": "* Activity: Identify a specific problem situation in your city or region, that affects the context where you live or work, associated with air pollution, water pollution or soil pollution and its effects on human health.Participate in the forum.Share the public link of the fishbone diagram in the Canva Tool.\n* Environment where it must be presented: Learning environment and Evaluation environment.\n* Expected Product: Word or pdf document with the analysis and argumentation of the problem.",
+    "typeActivity": "Individual",
+    "weight": 1338894527,
+    "actInit": "2024-09-04T05:00:00Z",
+    "actEnd": "2024-10-14T04:55:00Z",
+    "courseAgenda": {
+      "id": 1157836923,
+      "courseName": "GEOPOLÍTICA Y MEDIO AMBIENTE - Course Teórico - 151021 of 2 Academic Credits",
+      "credits": -2013478996,
+      "period": "2024 II PERIODO 16-04 (1704)"
+    }
+  },
+  {
+    "id": -2000063345,
+    "agenda": "Unit 2 - Intersectoral and Transectoral strategies in health",
+    "unit": "* Activity: Design a digital presentation in Genially tool ( individual activity). Then, the collaborative group select one of the topics presented by the members and define two intrasectoral strategies (health sector) and a two intersectoral strategies (coordinate with the environment and other related sectors) to address the challenges and solutions to the problem.\n* Environment where it must be presented: Learning environment and Evaluation environment.\n* Expected Product: An individual work and a collaborative work. Word or pdf document with the strategies and the presentation in Genially tool.",
+    "activity": "Task 3 - Definition of intrasectoral and transectoral strategies",
+    "descripcion": "Collaborative",
+    "typeActivity": "Collaborative",
+    "weight": 28861512,
+    "actInit": "2024-10-14T05:00:00Z",
+    "actEnd": "2024-11-27T04:55:00Z",
+    "courseAgenda": {
+      "id": 1157836923,
+      "courseName": "GEOPOLÍTICA Y MEDIO AMBIENTE - Course Teórico - 151021 of 2 Academic Credits",
+      "credits": -2076452718,
+      "period": "2024 II PERIODO 16-04 (1704)"
+    }
+  },
+  {
+    "id": -1729508907,
+    "agenda": "1. Moment",
+    "unit": "3. Activity name",
+    "activity": "2. Unit name",
+    "descripcion": "4. Description",
+    "typeActivity": "4. Description",
+    "weight": 1011964187,
+    "actInit": "2024-08-21T05:06:30.848782Z",
+    "actEnd": "2024-08-21T05:06:30.848807Z",
+    "courseAgenda": {
+      "id": 1157836923,
+      "courseName": "GEOPOLÍTICA Y MEDIO AMBIENTE - Course Teórico - 151021 of 2 Academic Credits",
+      "credits": 775541598,
+      "period": "2024 II PERIODO 16-04 (1704)"
+    }
+  },
+  {
+    "id": -407570189,
+    "agenda": "Final",
+    "unit": "Task 4 - Appropriation and Leadership in Geopolitics and Environment",
+    "activity": "---",
+    "descripcion": "* Activity: Prepare a document containing the case study of implementing circular economy in healthcare. Participate in the forum defining the concept of circular economy, its benefits and an example where this model of production and consumption is applied. Comment on current and future policies needed to promote the circular economy in the health sector in Colombia and an international perspective.\n* Environment where it must be presented: Learning environment and Evaluation environment.\n* Expected Product: Document in Word or pdf format with the discuss of the circular economy in the health sector in Colombia and an international perspective.",
+    "typeActivity": "Collaborative",
+    "weight": -470035681,
+    "actInit": "2024-11-27T05:00:00Z",
+    "actEnd": "2024-12-11T04:55:00Z",
+    "courseAgenda": {
+      "id": 1157836923,
+      "courseName": "GEOPOLÍTICA Y MEDIO AMBIENTE - Course Teórico - 151021 of 2 Academic Credits",
+      "credits": -228780748,
+      "period": "2024 II PERIODO 16-04 (1704)"
+    }
+  },
+  {
+    "id": 1483813208,
+    "agenda": "1. Momento de la e-evaluación",
+    "unit": "3. Nombre de la actividad",
+    "activity": "2. Nombre de la unidad",
+    "descripcion": "4. Descripción de la actividad",
+    "typeActivity": "4. Descripción de la actividad",
+    "weight": -770818992,
+    "actInit": "2024-08-21T05:06:30.848965Z",
+    "actEnd": "2024-08-21T05:06:30.848991Z",
+    "courseAgenda": {
+      "id": 2128041517,
       "courseName": "GESTIÓN ESTRATÉGICA EN SALUD - Curso Teórico - 151023 de 3 créditos",
-      "credits": 3,
+      "credits": 1164036645,
       "period": "2024 II PERIODO 16-04 (1704)"
-    },
-    "calendar": [
-      {
-        "id": -1077429513,
-        "agenda": "1. Momento de la e-evaluación",
-        "unit": "3. Nombre de la actividad",
-        "activity": "2. Nombre de la unidad",
-        "descripcion": "4. Descripción de la actividad",
-        "typeActivity": "4. Descripción de la actividad",
-        "weight": "5. Tipo de actividad",
-        "actInit": "6. Peso evaluativo (en puntajes)",
-        "actEnd": "7. Actividad inicia en:"
-      },
-      {
-        "id": -845166199,
-        "agenda": "Inicial",
-        "unit": "Fase 1 - Conceptos básicos y modelos de gestión estratégica",
-        "activity": "Unidad 1 - Fundamentos de la gestión estratégica y análisis estratégico del entorno",
-        "descripcion": "*Actividad: Realizar video donde exponga la importancia y aplicabilidad de los conceptos básicos y modelos de la gestión estratégica en salud.\n*Entorno del aula donde se realiza: Entorno de evaluación\n*Producto a entregar: Documento en word con link de las herramientas digitales",
-        "typeActivity": "Individual",
-        "weight": "25",
-        "actInit": "21/AGO/2024 00:00",
-        "actEnd": "03/SEP/2024 23:55"
-      },
-      {
-        "id": -2134552291,
-        "agenda": "Intermedio",
-        "unit": "Fase 2 - Diagnóstico estratégico externo y pronóstico del ambiente",
-        "activity": "Unidad 1 - Fundamentos de la gestión estratégica y análisis estratégico del entorno",
-        "descripcion": "*Actividad: Elaborar a una entidad de salud diagnóstico estratégico externo y pronóstico del ambiente. \n*Entorno del aula donde se realiza: Entorno de evaluación.\n*Producto a entregar: Cuadro en Powerpoint que incluya pronóstico de ambiente y análisis pestel.",
-        "typeActivity": "Individual",
-        "weight": "100",
-        "actInit": "04/SEP/2024 00:00",
-        "actEnd": "02/OCT/2024 23:55"
-      },
-      {
-        "id": -703619513,
-        "agenda": "Unidad 2 - Análisis estratégico interno y formulación de la estrategias",
-        "unit": "*Actividad: Elaborar análisis estratégico interno a una entidad de salud, mediante la \nherramienta Prezi. \n*Entorno del aula donde se realiza: Entorno de evaluación. \n*Producto a entregar: Documento PDF con enlace abierto al Prezi con la información solicitada.",
-        "activity": "Fase 3 - Análisis estratégico interno",
-        "descripcion": "Colaborativa",
-        "typeActivity": "Colaborativa",
-        "weight": "125",
-        "actInit": "03/OCT/2024 00:00",
-        "actEnd": "30/OCT/2024 23:55"
-      },
-      {
-        "id": -1381624872,
-        "agenda": "Unidad 3 - Implementación, evaluación y control de las estrategias",
-        "unit": "*Actividad: Desarrollar el análisis estratégico interno a una entidad de salud. *Entorno del aula donde se realiza: Entorno de evaluación. *Producto a entregar: Ensayo en PDF, donde evidencie la comparación, formulación y selección de estrategias aplicables al sector salud",
-        "activity": "Fase 4 - Proceso de comparación, formulación y selección de las estrategias",
-        "descripcion": "Colaborativa",
-        "typeActivity": "Colaborativa",
-        "weight": "125",
-        "actInit": "31/OCT/2024 00:00",
-        "actEnd": "26/NOV/2024 23:55"
-      },
-      {
-        "id": 3895478,
-        "agenda": "1. Momento de la e-evaluación",
-        "unit": "3. Nombre de la actividad",
-        "activity": "2. Nombre de la unidad",
-        "descripcion": "4. Descripción de la actividad",
-        "typeActivity": "4. Descripción de la actividad",
-        "weight": "5. Tipo de actividad",
-        "actInit": "6. Peso evaluativo (en puntajes)",
-        "actEnd": "7. Actividad inicia en:"
-      },
-      {
-        "id": 1907074894,
-        "agenda": "Final",
-        "unit": "Fase 5 - Implementación de las estrategias",
-        "activity": "---",
-        "descripcion": "*Actividad: Realizar análisis DOFA y PESTEL, donde evidencie estrategias de mejoramiento y sostenibilidad. *Entorno del aula donde se realiza: Entorno de evaluación. *Producto a entregar: Documento Word, donde evidencia análisis estratégico y diseño de estrategias.",
-        "typeActivity": "Colaborativa",
-        "weight": "125",
-        "actInit": "27/NOV/2024 00:00",
-        "actEnd": "10/DIC/2024 23:55"
-      }
-    ]
+    }
   },
   {
-    "id": -1688997858,
-    "infoCourse": {
-      "id": 1934211667,
-      "courseName": "PRÁCTICA PROFESIONAL III - Curso Práctico - 151028 de 3 créditos",
-      "credits": 3,
+    "id": -1835283735,
+    "agenda": "Inicial",
+    "unit": "Fase 1 - Conceptos básicos y modelos de gestión estratégica",
+    "activity": "Unidad 1 - Fundamentos de la gestión estratégica y análisis estratégico del entorno",
+    "descripcion": "*Actividad: Realizar video donde exponga la importancia y aplicabilidad de los conceptos básicos y modelos de la gestión estratégica en salud.\n*Entorno del aula donde se realiza: Entorno de evaluación\n*Producto a entregar: Documento en word con link de las herramientas digitales",
+    "typeActivity": "Individual",
+    "weight": -1378183355,
+    "actInit": "2024-08-21T05:00:00Z",
+    "actEnd": "2024-09-04T04:55:00Z",
+    "courseAgenda": {
+      "id": 2128041517,
+      "courseName": "GESTIÓN ESTRATÉGICA EN SALUD - Curso Teórico - 151023 de 3 créditos",
+      "credits": 1972585510,
       "period": "2024 II PERIODO 16-04 (1704)"
-    },
-    "calendar": [
-      {
-        "id": -771697925,
-        "agenda": "1. Momento de la e-evaluación",
-        "unit": "3. Nombre de la actividad",
-        "activity": "2. Nombre de la unidad",
-        "descripcion": "4. Descripción de la actividad",
-        "typeActivity": "4. Descripción de la actividad",
-        "weight": "5. Tipo de actividad",
-        "actInit": "6. Peso evaluativo (en puntajes)",
-        "actEnd": "7. Actividad inicia en:"
-      },
-      {
-        "id": 1440026244,
-        "agenda": "Inicial",
-        "unit": "Fase 1 - Reconocimiento Previo de Conceptos",
-        "activity": "Unidad 1 - Reconocimiento",
-        "descripcion": "*Actividad: Realizar Informe de la Plataforma Estratégica del Escenario de Práctica \n*Entorno del aula donde se realiza: Entorno de Evaluación \n*Producto a entregar: Informe en formato PDF que describa la Plataforma Estratégica del Escenario de Práctica.",
-        "typeActivity": "Individual",
-        "weight": "25",
-        "actInit": "21/AGO/2024 00:00",
-        "actEnd": "03/SEP/2024 23:55"
-      },
-      {
-        "id": -510888678,
-        "agenda": "Intermedio",
-        "unit": "Fase 2 - Componente Práctico - Práctica Profesional",
-        "activity": "Unidad 2 - Desarrollo de la práctica profesional",
-        "descripcion": "*Actividad: Realizar Informe de Reconocimiento de los procesos y áreas \n*Entorno del aula donde se realiza: Entorno de Evaluación \n*Producto a entregar: Informe en formato PDF del Reconocimiento de los procesos y áreas en las que se desarrolló la práctica profesional.",
-        "typeActivity": "Individual",
-        "weight": "80",
-        "actInit": "04/SEP/2024 00:00",
-        "actEnd": "24/SEP/2024 23:55"
-      },
-      {
-        "id": 1114091463,
-        "agenda": "Fase 3 - Componente Práctico - Práctica Profesional",
-        "unit": "*Actividad: Elaborar instrumento de evaluación \n*Entorno del aula donde se realiza: Entorno de Evaluación \n*Producto a entregar: Instrumento de evaluación elaborado en formato Excel para el desempeño de procesos.",
-        "activity": "Fase 3 - Componente Práctico - Práctica Profesional",
-        "descripcion": "Individual",
-        "typeActivity": "Individual",
-        "weight": "90",
-        "actInit": "25/SEP/2024 00:00",
-        "actEnd": "15/OCT/2024 23:55"
-      },
-      {
-        "id": -460022975,
-        "agenda": "Fase 4 - Componente Práctico - Práctica Profesional",
-        "unit": "*Actividad: Aplicar Instrumento de Evaluación \n*Entorno del aula donde se realiza: Entorno de Evaluación \n*Producto a entregar: Instrumento de evaluación aplicado con registro de hallazgos y resultados del desempeño de los procesos en formato Excel.",
-        "activity": "Fase 4 - Componente Práctico - Práctica Profesional",
-        "descripcion": "Individual",
-        "typeActivity": "Individual",
-        "weight": "90",
-        "actInit": "16/OCT/2024 00:00",
-        "actEnd": "05/NOV/2024 23:55"
-      },
-      {
-        "id": -1276043989,
-        "agenda": "Unidad 3 - Análisis y Plan de Mejora",
-        "unit": "*Actividad: Analizar resultados e información recolectada \n*Entorno del aula donde se realiza: Entorno de Evaluación \n*Producto a entregar: Informe de resultados e información recolectada en formato PDF respecto al desempeño de los procesos.",
-        "activity": "Fase 5 - Componente Práctico - Práctica Profesional",
-        "descripcion": "Individual",
-        "typeActivity": "Individual",
-        "weight": "90",
-        "actInit": "06/NOV/2024 00:00",
-        "actEnd": "26/NOV/2024 23:55"
-      },
-      {
-        "id": 1302311409,
-        "agenda": "1. Momento de la e-evaluación",
-        "unit": "3. Nombre de la actividad",
-        "activity": "2. Nombre de la unidad",
-        "descripcion": "4. Descripción de la actividad",
-        "typeActivity": "4. Descripción de la actividad",
-        "weight": "5. Tipo de actividad",
-        "actInit": "6. Peso evaluativo (en puntajes)",
-        "actEnd": "7. Actividad inicia en:"
-      },
-      {
-        "id": 1396648877,
-        "agenda": "Final",
-        "unit": "Fase 6 - Componente Práctico - Práctica Profesional",
-        "activity": "---",
-        "descripcion": "*Actividad: Presentar Plan de Mejora \n*Entorno del aula donde se realiza: Entorno de Evaluación \n*Producto a entregar: Presentación en Power Point que describe el Plan de Mejora a partir de los hallazgos y análisis de resultados.",
-        "typeActivity": "Individual",
-        "weight": "125",
-        "actInit": "27/NOV/2024 00:00",
-        "actEnd": "10/DIC/2024 23:55"
-      }
-    ]
+    }
+  },
+  {
+    "id": -1329758539,
+    "agenda": "Intermedio",
+    "unit": "Fase 2 - Diagnóstico estratégico externo y pronóstico del ambiente",
+    "activity": "Unidad 1 - Fundamentos de la gestión estratégica y análisis estratégico del entorno",
+    "descripcion": "*Actividad: Elaborar a una entidad de salud diagnóstico estratégico externo y pronóstico del ambiente. \n*Entorno del aula donde se realiza: Entorno de evaluación.\n*Producto a entregar: Cuadro en Powerpoint que incluya pronóstico de ambiente y análisis pestel.",
+    "typeActivity": "Individual",
+    "weight": 1230394164,
+    "actInit": "2024-09-04T05:00:00Z",
+    "actEnd": "2024-10-03T04:55:00Z",
+    "courseAgenda": {
+      "id": 2128041517,
+      "courseName": "GESTIÓN ESTRATÉGICA EN SALUD - Curso Teórico - 151023 de 3 créditos",
+      "credits": -1720531828,
+      "period": "2024 II PERIODO 16-04 (1704)"
+    }
+  },
+  {
+    "id": -2125627036,
+    "agenda": "Unidad 2 - Análisis estratégico interno y formulación de la estrategias",
+    "unit": "*Actividad: Elaborar análisis estratégico interno a una entidad de salud, mediante la \nherramienta Prezi. \n*Entorno del aula donde se realiza: Entorno de evaluación. \n*Producto a entregar: Documento PDF con enlace abierto al Prezi con la información solicitada.",
+    "activity": "Fase 3 - Análisis estratégico interno",
+    "descripcion": "Colaborativa",
+    "typeActivity": "Colaborativa",
+    "weight": -139490134,
+    "actInit": "2024-10-03T05:00:00Z",
+    "actEnd": "2024-10-31T04:55:00Z",
+    "courseAgenda": {
+      "id": 2128041517,
+      "courseName": "GESTIÓN ESTRATÉGICA EN SALUD - Curso Teórico - 151023 de 3 créditos",
+      "credits": 870169926,
+      "period": "2024 II PERIODO 16-04 (1704)"
+    }
+  },
+  {
+    "id": 1204840065,
+    "agenda": "Unidad 3 - Implementación, evaluación y control de las estrategias",
+    "unit": "*Actividad: Desarrollar el análisis estratégico interno a una entidad de salud. *Entorno del aula donde se realiza: Entorno de evaluación. *Producto a entregar: Ensayo en PDF, donde evidencie la comparación, formulación y selección de estrategias aplicables al sector salud",
+    "activity": "Fase 4 - Proceso de comparación, formulación y selección de las estrategias",
+    "descripcion": "Colaborativa",
+    "typeActivity": "Colaborativa",
+    "weight": 897774703,
+    "actInit": "2024-10-31T05:00:00Z",
+    "actEnd": "2024-11-27T04:55:00Z",
+    "courseAgenda": {
+      "id": 2128041517,
+      "courseName": "GESTIÓN ESTRATÉGICA EN SALUD - Curso Teórico - 151023 de 3 créditos",
+      "credits": -106111420,
+      "period": "2024 II PERIODO 16-04 (1704)"
+    }
+  },
+  {
+    "id": 1697617488,
+    "agenda": "1. Momento de la e-evaluación",
+    "unit": "3. Nombre de la actividad",
+    "activity": "2. Nombre de la unidad",
+    "descripcion": "4. Descripción de la actividad",
+    "typeActivity": "4. Descripción de la actividad",
+    "weight": 527779190,
+    "actInit": "2024-08-21T05:06:30.851536Z",
+    "actEnd": "2024-08-21T05:06:30.851742Z",
+    "courseAgenda": {
+      "id": 2128041517,
+      "courseName": "GESTIÓN ESTRATÉGICA EN SALUD - Curso Teórico - 151023 de 3 créditos",
+      "credits": 1906850596,
+      "period": "2024 II PERIODO 16-04 (1704)"
+    }
+  },
+  {
+    "id": -1501452198,
+    "agenda": "Final",
+    "unit": "Fase 5 - Implementación de las estrategias",
+    "activity": "---",
+    "descripcion": "*Actividad: Realizar análisis DOFA y PESTEL, donde evidencie estrategias de mejoramiento y sostenibilidad. *Entorno del aula donde se realiza: Entorno de evaluación. *Producto a entregar: Documento Word, donde evidencia análisis estratégico y diseño de estrategias.",
+    "typeActivity": "Colaborativa",
+    "weight": -1346590189,
+    "actInit": "2024-11-27T05:00:00Z",
+    "actEnd": "2024-12-11T04:55:00Z",
+    "courseAgenda": {
+      "id": 2128041517,
+      "courseName": "GESTIÓN ESTRATÉGICA EN SALUD - Curso Teórico - 151023 de 3 créditos",
+      "credits": 1446446466,
+      "period": "2024 II PERIODO 16-04 (1704)"
+    }
+  },
+  {
+    "id": -1138970281,
+    "agenda": "1. Momento de la e-evaluación",
+    "unit": "3. Nombre de la actividad",
+    "activity": "2. Nombre de la unidad",
+    "descripcion": "4. Descripción de la actividad",
+    "typeActivity": "4. Descripción de la actividad",
+    "weight": 1067330944,
+    "actInit": "2024-08-21T05:06:30.851986Z",
+    "actEnd": "2024-08-21T05:06:30.852013Z",
+    "courseAgenda": {
+      "id": -1157039257,
+      "courseName": "PRÁCTICA PROFESIONAL III - Curso Práctico - 151028 de 3 créditos",
+      "credits": 1064638778,
+      "period": "2024 II PERIODO 16-04 (1704)"
+    }
+  },
+  {
+    "id": -1162048760,
+    "agenda": "Inicial",
+    "unit": "Fase 1 - Reconocimiento Previo de Conceptos",
+    "activity": "Unidad 1 - Reconocimiento",
+    "descripcion": "*Actividad: Realizar Informe de la Plataforma Estratégica del Escenario de Práctica \n*Entorno del aula donde se realiza: Entorno de Evaluación \n*Producto a entregar: Informe en formato PDF que describa la Plataforma Estratégica del Escenario de Práctica.",
+    "typeActivity": "Individual",
+    "weight": -625124918,
+    "actInit": "2024-08-21T05:00:00Z",
+    "actEnd": "2024-09-04T04:55:00Z",
+    "courseAgenda": {
+      "id": -1157039257,
+      "courseName": "PRÁCTICA PROFESIONAL III - Curso Práctico - 151028 de 3 créditos",
+      "credits": -1937763042,
+      "period": "2024 II PERIODO 16-04 (1704)"
+    }
+  },
+  {
+    "id": -977013823,
+    "agenda": "Intermedio",
+    "unit": "Fase 2 - Componente Práctico - Práctica Profesional",
+    "activity": "Unidad 2 - Desarrollo de la práctica profesional",
+    "descripcion": "*Actividad: Realizar Informe de Reconocimiento de los procesos y áreas \n*Entorno del aula donde se realiza: Entorno de Evaluación \n*Producto a entregar: Informe en formato PDF del Reconocimiento de los procesos y áreas en las que se desarrolló la práctica profesional.",
+    "typeActivity": "Individual",
+    "weight": 1038533073,
+    "actInit": "2024-09-04T05:00:00Z",
+    "actEnd": "2024-09-25T04:55:00Z",
+    "courseAgenda": {
+      "id": -1157039257,
+      "courseName": "PRÁCTICA PROFESIONAL III - Curso Práctico - 151028 de 3 créditos",
+      "credits": -1070690354,
+      "period": "2024 II PERIODO 16-04 (1704)"
+    }
+  },
+  {
+    "id": 415067009,
+    "agenda": "Fase 3 - Componente Práctico - Práctica Profesional",
+    "unit": "*Actividad: Elaborar instrumento de evaluación \n*Entorno del aula donde se realiza: Entorno de Evaluación \n*Producto a entregar: Instrumento de evaluación elaborado en formato Excel para el desempeño de procesos.",
+    "activity": "Fase 3 - Componente Práctico - Práctica Profesional",
+    "descripcion": "Individual",
+    "typeActivity": "Individual",
+    "weight": 344067151,
+    "actInit": "2024-09-25T05:00:00Z",
+    "actEnd": "2024-10-16T04:55:00Z",
+    "courseAgenda": {
+      "id": -1157039257,
+      "courseName": "PRÁCTICA PROFESIONAL III - Curso Práctico - 151028 de 3 créditos",
+      "credits": -1025250341,
+      "period": "2024 II PERIODO 16-04 (1704)"
+    }
+  },
+  {
+    "id": -1174915919,
+    "agenda": "Fase 4 - Componente Práctico - Práctica Profesional",
+    "unit": "*Actividad: Aplicar Instrumento de Evaluación \n*Entorno del aula donde se realiza: Entorno de Evaluación \n*Producto a entregar: Instrumento de evaluación aplicado con registro de hallazgos y resultados del desempeño de los procesos en formato Excel.",
+    "activity": "Fase 4 - Componente Práctico - Práctica Profesional",
+    "descripcion": "Individual",
+    "typeActivity": "Individual",
+    "weight": 655060627,
+    "actInit": "2024-10-16T05:00:00Z",
+    "actEnd": "2024-11-06T04:55:00Z",
+    "courseAgenda": {
+      "id": -1157039257,
+      "courseName": "PRÁCTICA PROFESIONAL III - Curso Práctico - 151028 de 3 créditos",
+      "credits": 686057262,
+      "period": "2024 II PERIODO 16-04 (1704)"
+    }
+  },
+  {
+    "id": 1655766566,
+    "agenda": "Unidad 3 - Análisis y Plan de Mejora",
+    "unit": "*Actividad: Analizar resultados e información recolectada \n*Entorno del aula donde se realiza: Entorno de Evaluación \n*Producto a entregar: Informe de resultados e información recolectada en formato PDF respecto al desempeño de los procesos.",
+    "activity": "Fase 5 - Componente Práctico - Práctica Profesional",
+    "descripcion": "Individual",
+    "typeActivity": "Individual",
+    "weight": 122524154,
+    "actInit": "2024-11-06T05:00:00Z",
+    "actEnd": "2024-11-27T04:55:00Z",
+    "courseAgenda": {
+      "id": -1157039257,
+      "courseName": "PRÁCTICA PROFESIONAL III - Curso Práctico - 151028 de 3 créditos",
+      "credits": -1360948090,
+      "period": "2024 II PERIODO 16-04 (1704)"
+    }
+  },
+  {
+    "id": 1332903761,
+    "agenda": "1. Momento de la e-evaluación",
+    "unit": "3. Nombre de la actividad",
+    "activity": "2. Nombre de la unidad",
+    "descripcion": "4. Descripción de la actividad",
+    "typeActivity": "4. Descripción de la actividad",
+    "weight": 2138902798,
+    "actInit": "2024-08-21T05:06:30.854676Z",
+    "actEnd": "2024-08-21T05:06:30.854698Z",
+    "courseAgenda": {
+      "id": -1157039257,
+      "courseName": "PRÁCTICA PROFESIONAL III - Curso Práctico - 151028 de 3 créditos",
+      "credits": 553068441,
+      "period": "2024 II PERIODO 16-04 (1704)"
+    }
+  },
+  {
+    "id": -1753956433,
+    "agenda": "Final",
+    "unit": "Fase 6 - Componente Práctico - Práctica Profesional",
+    "activity": "---",
+    "descripcion": "*Actividad: Presentar Plan de Mejora \n*Entorno del aula donde se realiza: Entorno de Evaluación \n*Producto a entregar: Presentación en Power Point que describe el Plan de Mejora a partir de los hallazgos y análisis de resultados.",
+    "typeActivity": "Individual",
+    "weight": -2114801098,
+    "actInit": "2024-11-27T05:00:00Z",
+    "actEnd": "2024-12-11T04:55:00Z",
+    "courseAgenda": {
+      "id": -1157039257,
+      "courseName": "PRÁCTICA PROFESIONAL III - Curso Práctico - 151028 de 3 créditos",
+      "credits": 660190934,
+      "period": "2024 II PERIODO 16-04 (1704)"
+    }
   }
 ]
